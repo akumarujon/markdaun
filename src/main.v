@@ -27,7 +27,11 @@ mut fp := flag.new_flag_parser(os.args)
     <style>' + styles +'</style>
     <title>Document</title>
 </head>
-<body>
-    '+ md + "</body>
+<body class="container mx-auto">
+    <main class="mx-16 mt-10 border">
+    '+ md + 
+    "
+    <main>
+    </body>
 </html>")!
 }
