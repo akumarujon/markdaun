@@ -4,7 +4,7 @@
 ## Installation
 Clone this repository:
 ```bash
-git clone https://github.com/user6879/markdaun
+git clone https://github.com/triistam/markdaun
 ```
 Compile:
 ```bash
