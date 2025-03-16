@@ -4,7 +4,11 @@
 ## Installation
 Clone this repository:
 ```bash
-git clone https://github.com/triistam/markdaun
+git clone https://github.com/akumarujon/markdaun
+```
+Install the only dependency:
+```bash
+v install markdown
 ```
 Compile:
 ```bash
